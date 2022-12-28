@@ -53,6 +53,7 @@ Run this code in the jupyter notebook to install the package.
 
 ## Results
 ![image](https://user-images.githubusercontent.com/52078988/209738710-894c22fc-72ee-4dc5-8540-7cf541285597.png)
+
 So the best performing algorithm is XGBoost with an accuracy of 89.2%
 
 The DNN has given much better accuracy which is of 92.3%
@@ -62,5 +63,6 @@ So for this project DNN gave us more accurate result when compared to other ML a
 
 ## Future Scope
 The ML algorithms used in this project are the basic versions that the libraries provide. These can be experimented with hyper parameter tuning and find the best performing model to get better accuracy.
+
 The structure of the DNN can be changed and experimented to develop the accuracy.
 
